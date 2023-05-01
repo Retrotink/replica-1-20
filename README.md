@@ -1,4 +1,4 @@
-# replica 1 twentieth anniversary edition
+# replica 1 20th anniversary edition
 ![r120](https://user-images.githubusercontent.com/121696513/235511512-3a86ce36-c582-4262-b182-83accdef18e5.jpg)
 
 ## 20th anniversary features
