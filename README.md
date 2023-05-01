@@ -1,5 +1,5 @@
-# replica-1-20
-20th anniversary features
+# replica 1 twentieth anniversary edition
+## 20th anniversary features
 Backwards capable of running all apple 1 software plus...<br>
 65C816 CPU replaces the 6502 with choice of oscillator 1-14mhz<br>
 65C816 starts up in 6502 mode replicating apple 1<br>
