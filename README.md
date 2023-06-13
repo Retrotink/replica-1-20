@@ -21,5 +21,5 @@ Fast display mode <br>
 Clear Screen with Shift + Home key on keyboard<br>
 RESET replica 1 on keyboard with Shift + Break/Pause<br>
 <br>
-Due to the timing of the 65C816 some hardware such as the CFFA1 may not be 100% compatible with the replica 1 twenty<br>
+Tested working with the CFFA1 in primary slot only<br>
 Open source board files and source code for all to enjoy and learn<br>
