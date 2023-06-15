@@ -18,9 +18,11 @@ Capable of plotting on screen in location X, Y<br>
 Home cursor and Clear Screen functions built in with simple control codes<br>
 Several cursor modes including no cursor<br>
 Cursor and screen modes controlled by control codes and keyboard codes<br>
-Fast display mode <br>
-Clear Screen with Shift + Home key on keyboard<br>
-RESET replica 1 on keyboard with Shift + Break/Pause<br>
+Faster display output <br>
+Clear Screen with "Home" key on keyboard<br>
+RESET replica 1 on keyboard with Shift + Break/Pause keys<br>
 <br>
 Tested working with the CFFA1 in primary slot only<br>
 Open source board files and source code for all to enjoy and learn<br>
+Custom Mon816 program to examine all upper memory above 64K
+More details to come, stay tuned... 
