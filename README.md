@@ -1,5 +1,6 @@
 # replica 1 20th anniversary edition
-![r120](https://user-images.githubusercontent.com/121696513/235511512-3a86ce36-c582-4262-b182-83accdef18e5.jpg)
+
+![20230613_095110](https://github.com/Retrotink/replica-1-20/assets/121696513/9e33a5ef-a4c2-4534-b9f6-1ae73f3efd31)
 
 ## 20th anniversary features
 Backwards capable of running all apple 1 software plus...<br>
