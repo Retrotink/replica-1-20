@@ -14,7 +14,7 @@ PS/2 connector for keyboard interface<br>
 VGA Video output<br>
 VGA Output capable of 80X24 Text<br>
 Inverse Characters<br>
-Several Text Colors for screen (only 1 main color for entire screen)<br>
+Several screen Colors with black background (only 1 main color for entire screen)<br>
 Capable of plotting on screen in location X, Y<br>
 Home cursor and Clear Screen functions built in with simple control codes<br>
 Several cursor modes including no cursor<br>
