@@ -7,7 +7,7 @@
 Backwards capable of running all apple 1 software plus...<br>
 65C816 CPU replaces the 6502 with choice of oscillator 1-4mhz<br>
 65C816 starts up in 6502 mode replicating apple 1<br>
-512K RAM capable with 65C816 addressing mode
+512K RAM onboard and 16 Meg capable with 24 bit addressing mode
 Micro USB connector can connect to supply, laptop, even a phone or tablet!<br>
 Phone and tablets can power replica 1 and PS/2 keyboard!<br>
 PS/2 connector for keyboard interface<br>
